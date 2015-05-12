@@ -7,7 +7,7 @@ _Please note that library database is still a work in progress, and is therefore
 
 ## Synopsis
 
-Library Database is a work-in-progress by [Courtney Phillips](https://github.com/courtneymaepdx) aimed at mimicking the functionality of a library database system with the ability to track patrons, maintain and query catalogues of books, and record lended books, due dates, etc.
+Library Database is a work-in-progress by [Courtney Phillips](https://github.com/courtneymaepdx) and [Ian Bevel](https://github.com/ianofearth) aimed at mimicking the functionality of a library database system with the ability to track patrons, maintain and query catalogues of books, and record lended books, due dates, etc. Crafted as part of the Spring 2015 Ruby course curriculum at [Epicodus](https://www.epicodus.com/).
 
 ## Database Setup
 
