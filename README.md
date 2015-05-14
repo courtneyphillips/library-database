@@ -38,11 +38,11 @@ Library Database uses the following gems:
   - Pry
   - PG
 
-To install, run `gem install bundle` in the command line.
+To install, run `$ gem install bundle` in the command line.
 
 ## Tests
 
-Both method and integration tests for Library Database utilize the RSpec. Simply run `gem install rspec`, if it's not already installed, simply issue the command `rspec`, while located in the project's file.
+Both method and integration tests for Library Database utilize the RSpec. Run `$ gem install rspec` in the terminal, if you haven't already installed using the bundle method detailed above. To run tests, simply issue the command `rspec`, while located in the project's file.
 
 ## Links
 
